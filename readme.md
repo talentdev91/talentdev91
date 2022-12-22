@@ -51,9 +51,7 @@
   ![dJango](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-  <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-  </p>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
 
 - ☁️ Cloud:
 
@@ -130,27 +128,29 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
 <h4 align="center">
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+
+    ```diff
+    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+    @@       o o                                           @@
+    @@       | |                                           @@
+    @@      _L_L_                                          @@
+    @@   ❮\/__-__\/❯ Programming isn't about what you know @@
+    @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+    @@   ❮/ \`-'/ \❯                                       @@
+    @@     _/`U'\_                                         @@
+    @@    ( .   . )     .----------------------------.     @@
+    @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+    @@   \ |  ,  | /    '----------------------------'     @@
+    @@    \|=====|/                                        @@
+    @@     |_.^._|                                         @@
+    @@     | |"| |                                         @@
+    @@     ( ) ( )   Testing leads to failure              @@
+    @@     |_| |_|   and failure leads to understanding    @@
+    @@ _.-' _j L_ '-._                                     @@
+    @@(___.'     '.___)                                    @@
+    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+    ```
+
 </h4>
 
 <div align="center">
