@@ -67,6 +67,32 @@
         <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
         alt="webpack"/>
     </a>
+    <a href="https://nodejs.org" target="_blank"> 
+        <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+        alt="nodejs"/> 
+    </a>
+    <a href="https://expressjs.com" target="_blank">
+        <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+        alt="express" />
+    <a href="https://hibernate.org/" target="_blank"> 
+        <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
+    </a>
+        <a href="https://spring.io/" target="_blank"> 
+        <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
+    </a>
+    <a href="https://spring.io/" target="_blank"> 
+        <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
+    </a>
+    <a href="https://graphql.org" target="_blank">
+        <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+    </a>
+    <a href="https://kubernetes.io" target="_blank"> 
+        <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+    </a>
+    <a href="https://www.nginx.com" target="_blank"> 
+        <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
+        alt="nginx"/> 
+    </a> 
   </p>
 
 - ☁️ Cloud:
@@ -87,10 +113,27 @@
 - 💾 Databases:
 
   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-  ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <p>
+    <a href="https://www.postgresql.org" target="_blank"> 
+        <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+        alt="postgresql"/> 
+    </a>
+    <a href="https://redis.io" target="_blank"> 
+        <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+        alt="redis"/>
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank"> 
+        <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+        alt="sqlite"/> 
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+        alt="mongodb"/> 
+    </a> 
+    </p>
 
 - 🎛️ Operating Systen:
 
