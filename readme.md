@@ -4,14 +4,21 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" align="right"/>
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" align="right"/>
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+
+📚 I have a Bachelors in Computer Science
+
 📝 I have a strong interest in Data Science and Artificial Intelligence
+
 🔭 Working on Deep Learning & Machine Learning
+
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+
 🚩 Interested in Full Stack Machine Learning Application development
+
 💖 In a complicated relationship with Neural Networks
+
 🎵 Love metal, lofi, jazz and soft music
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
