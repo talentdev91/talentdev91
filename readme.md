@@ -21,7 +21,7 @@
 
 - 📋 Languages:
 
-  <p align="center">
+  <p>
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
         alt="c"/>
@@ -45,6 +45,27 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
         alt="typescript"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="bootstrap"/>
+    </a>
+    <a href="https://www.gatsbyjs.com/" target="_blank">
+        <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+        alt="react"/> 
+    </a>
+    <a href="https://redux.js.org" target="_blank"> 
+        <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+    </a> 
+    <a href="https://jquery.com/" target="_blank">
+        <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+    </a>
+    <a href="https://webpack.js.org" target="_blank">
+        <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+        alt="webpack"/>
     </a>
   </p>
 
