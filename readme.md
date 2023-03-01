@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I+am+a+Senior+developer;Welcome+to+my+profile!" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&Welcome+to+my+profile!" alt="Title">
   </img>
 </div>
 
@@ -131,34 +131,3 @@
 
 </p>
 
-<br>
-
-<h4 align="center">
-
-    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-    @@       o o                                           @@
-    @@       | |                                           @@
-    @@      _L_L_                                          @@
-    @@   ❮\/__-__\/❯ Programming isn't about what you know @@
-    @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-    @@   ❮/ \`-'/ \❯                                       @@
-    @@     _/`U'\_                                         @@
-    @@    ( .   . )     .----------------------------.     @@
-    @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-    @@   \ |  ,  | /    '----------------------------'     @@
-    @@    \|=====|/                                        @@
-    @@     |_.^._|                                         @@
-    @@     | |"| |                                         @@
-    @@     ( ) ( )   Testing leads to failure              @@
-    @@     |_| |_|   and failure leads to understanding    @@
-    @@ _.-' _j L_ '-._                                     @@
-    @@(___.'     '.___)                                    @@
-    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-
-</h4>
-
-<div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-</div>
-
----
